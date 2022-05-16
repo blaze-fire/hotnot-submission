@@ -1,0 +1,1 @@
+'Caucasian', 'Female', '[80-90)', '?', 2, 3, 7, 6, 'MC', 'Emergency/Trauma', 68, 0, 14, 0, 0, 0, '783', '276', '599', 9, 'None', '>7', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 0
